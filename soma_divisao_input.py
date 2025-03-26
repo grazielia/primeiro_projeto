@@ -1,0 +1,6 @@
+#a= int(input("digite o primeiro numero "))
+#b= int(input("digite o segundo numero "))
+#print(f"a soma é {a+b}")
+a= float(input("digite o primeiro numero "))
+b= float(input("digite o segundo numero "))
+print(a+b)
